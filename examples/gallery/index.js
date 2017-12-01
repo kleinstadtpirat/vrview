@@ -20,6 +20,11 @@ var scenes = {
     image: 'petra.jpg',
     preview: 'petra-preview.jpg'
   },
+  suedseite: {
+    image: 'suedseite.jpg',
+    preview: 'suedseite.jpg'
+  },
+
   christTheRedeemer: {
     image: 'christ-redeemer.jpg',
     preview: 'christ-redeemer-preview.jpg'
